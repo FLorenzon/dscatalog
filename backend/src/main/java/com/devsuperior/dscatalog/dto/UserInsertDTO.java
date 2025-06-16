@@ -18,9 +18,6 @@ public class UserInsertDTO extends UserDTO{
 
 	public void setPassword(String password) {
 		this.password = password;
-	}
-	
-	
-	
+	}	
 	
 }
